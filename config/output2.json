@@ -1,0 +1,12 @@
+[
+  {
+    "name": "名前",
+    "type": "copy",
+    "source": "名前"
+  },
+  {
+    "name": "コメント",
+    "type": "copy",
+    "source": "コメント"
+  }
+]

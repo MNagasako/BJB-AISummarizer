@@ -1,0 +1,32 @@
+[
+  {
+    "name": "管理番号",
+    "type": "copy",
+    "source": "管理番号"
+  },
+  {
+    "name": "支援分野",
+    "type": "copy",
+    "source": "支援分野"
+  },
+  {
+    "name": "CINTS課題番号",
+    "type": "copy",
+    "source": "CINTS課題番号"
+  },
+  {
+    "name": "機器利用",
+    "type": "copy",
+    "source": "機器利用"
+  },
+  {
+    "name": "DATA共有",
+    "type": "copy",
+    "source": "DATA共有"
+  },
+  {
+    "name": "研究概要目的と内容",
+    "type": "copy",
+    "source": "研究概要目的と内容"
+  }
+]

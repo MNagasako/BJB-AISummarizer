@@ -1,0 +1,10 @@
+input/.private/
+config/*.secret.json
+.env
+.env.*
+dist/
+build/
+*.spec
+__pycache__/
+.vscode/
+output/
